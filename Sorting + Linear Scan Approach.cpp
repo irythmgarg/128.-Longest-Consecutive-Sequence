@@ -1,6 +1,6 @@
 // Problem: Longest Consecutive Sequence
 // Approach: Sorting + Linear Scan
-// Author: [Your Name or GitHub handle] 🧠
+// Author: [Ridham Garg or irythmgarg] 🧠
 
 class Solution {
 public:
