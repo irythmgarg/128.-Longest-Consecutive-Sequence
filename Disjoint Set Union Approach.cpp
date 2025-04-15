@@ -1,7 +1,7 @@
 // Problem: Longest Consecutive Sequence
 // Approach: Disjoint Set Union (Union by Size with Path Compression)
 // Time Complexity: O(n * α(n)) ~ O(n) where α(n) is inverse Ackermann
-// Author: [Your Name or GitHub handle] 🔗
+// Author: [Ridham Garg or irythmgarg] 🔗
 
 class Solution {
 public:
